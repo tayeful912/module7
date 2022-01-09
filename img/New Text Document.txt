@@ -1,0 +1,9 @@
+@keyframes sliding {
+from {
+ background-color: salmon;
+ }
+
+ to {
+background-color: springgreen;
+}
+}
